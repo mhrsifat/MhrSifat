@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hafizur Rahman Sifat
+# 👋 Hi, I'm Md. Hafizur Rahman Sifat
 
 ### 🚀 React & Laravel Developer | PHP, JavaScript, jQuery, Bootstrap 5 Enthusiast
 
@@ -24,18 +24,21 @@ I'm a passionate **full-stack web developer** specializing in **React.js** and *
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Tools & Utilities
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
+![cPanel](https://img.shields.io/badge/cPanel-FB6C2C?style=for-the-badge&logo=cpanel&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)  
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
 
 ---
 
@@ -56,14 +59,14 @@ I'm a passionate **full-stack web developer** specializing in **React.js** and *
 - 🛒 [Halum Shop](https://halum.mhrsifat.xyz) — Ecommerce system
 - 🌟 [Portfolio](https://mhrsifat.xyz) — My personal website
 - 🌦️ [Weather App](https://weather.mhrsifat.xyz)
-- 📚 [Sanda](https://sanda.mhrsifat.xyz) — Learning project
+- 📚 [Sanda](https://sanda.mhrsifat.xyz) — Learning project (A simple Chatting app made with php, jQuery, javascript)
 - 📁 [File Manager](https://cdn.mhrsifat.xyz) — Online file manager
 
 ---
 
 ## 📬 Contact Me
 
-- 📧 Email: your-email@example.com *(Replace this with your actual email)*
+- 📧 Email: mhrsifat@gmail.com
 - 🌐 Website: [https://mhrsifat.xyz](https://mhrsifat.xyz)
 
 ---
