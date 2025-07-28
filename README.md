@@ -1,7 +1,9 @@
-<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" height='25px'> # Md. Hafizur Rahman Sifat 👋
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" height='25px'> # Md. Hafizur Rahman Sifat 👋
+</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2328a745&size=20&multiline=true&width=515&lines=Welcome+to+RahulSaw's+Github+Profile" alt="Welcome!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2328a745&size=20&multiline=true&width=515&lines=Welcome+to+MhrSifat's+Github+Profile" alt="Welcome!"/>
 </div>
 
 🚀 **React & Laravel Developer | PHP, JavaScript, jQuery, Bootstrap 5**
@@ -11,7 +13,7 @@
 <p align="center"> 
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything <a href="https://github.com/mhrsifat/mhrsifat/issues/new"><b>Here</b></a><br>
-or <a href="mailto:printfrahulsaw@gmail.com" target='_blank'><b>Email</b></a> me
+or <a href="mailto:mhrsifat@gmail.com" target='_blank'><b>Email</b></a> me
 </p>
 
 ## About Me
@@ -59,8 +61,8 @@ I am a passionate **Full-Stack Web Developer** specializing in **React.js** and 
 ---
 
 ## 📊 GitHub Stats
+<img src="https://komarev.com/ghpvc/?username=mhrsifat&label=Profile%20views&color=0e75b6&style=flat" width="150" height="30" />
 
-![Profile views](https://komarev.com/ghpvc/?username=mhrsifat&label=Profile%20views&color=0e75b6&style=flat)
 
 ![mhrsifat's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhrsifat&show_icons=true&theme=react&hide_title=true)
 
