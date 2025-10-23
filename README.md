@@ -107,12 +107,15 @@
 
 | Project         | Description                     | URL                                       |
 |-----------------|---------------------------------|------------------------------------------|
-| 🚚 LogiTrack     | Logistics tracking system       | [logitrack.mhrsifat.xyz](https://logitrack.mhrsifat.xyz) |
-| 🛒 Halum Shop    | Ecommerce system                | [halum.mhrsifat.xyz](https://halum.mhrsifat.xyz) |
-| 🌟 Portfolio    | Personal portfolio website      | [mhrsifat.xyz](https://mhrsifat.xyz)     |
-| 🌦️ Weather App  | Real-time weather application  | [weather.mhrsifat.xyz](https://weather.mhrsifat.xyz) |
+| 🧩 ApplyHub     | Local Service Provider (React + Laravel)  | [applihub.mhrsifat.xyz](https://applihub.mhrsifat.xyz)   |
+| 🌱 SmartAgro    | AI agricultural advisory (Laravel Blade + Alpine.Js)    | [smartagro.mhrsifat.xyz](https://smartagro.mhrsifat.xyz) |
+| 🚚 LogiTrack     | Logistics tracking system (React + PHP)      | [logitrack.mhrsifat.xyz](https://logitrack.mhrsifat.xyz) |
+| 🛒 Halum Shop    | Ecommerce system (PHP)       | [halum.mhrsifat.xyz](https://halum.mhrsifat.xyz) |
+| 🌟 Portfolio    | Personal portfolio website   (PHP)   | [mhrsifat.xyz](https://mhrsifat.xyz)     |
+| ☀️ Sunlight     | A Wordpress theme for Blog site (Wordpress) | [sunlight.mhrsifat.xyz](https://sunlight.mhrsifat.xyz)   |
+| 🌦️ Weather App  | Real-time weather application (Javascript)  | [weather.mhrsifat.xyz](https://weather.mhrsifat.xyz) |
 | 📚 Sanda        | Chatting app (PHP, JS, jQuery) | [sanda.mhrsifat.xyz](https://sanda.mhrsifat.xyz) |
-| 📁 File Manager | Online file manager             | [cdn.mhrsifat.xyz](https://cdn.mhrsifat.xyz) |
+| 📁 File Manager | Online file manager (JavaScript)           | [cdn.mhrsifat.xyz](https://cdn.mhrsifat.xyz) |
 
 <p align="center"> 
   <span style="color:#facc15;">━━━━━━━━━━━━━━━━━━━━</span>
