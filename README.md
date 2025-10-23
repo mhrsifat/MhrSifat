@@ -14,7 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=mhrsifat&label=Profile%20views&color=0e75b6&style=flat" alt="mhrsifat" /> 
 </p>
 
-- 🌱 I’m currently learning **Laravel**  
+- 🌱 I’m currently learning **Vue.Js**  
 - 📫 How to reach me: **mhrsifat@gmail.com**  
 
 <p align="center"> 
