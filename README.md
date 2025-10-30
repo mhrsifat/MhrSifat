@@ -49,7 +49,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **a cool web app using React and Laravel**  
+- 🔭 I’m currently working on **a cool web app using Vue.JS and Laravel**  
 - 👯 I’m looking to collaborate on **open-source projects and innovative web apps**  
 - 💬 Ask me about **Web Development, JavaScript, or UI/UX Design**  
 - 📫 How to reach me: **mhrsifat@gmail.com**
