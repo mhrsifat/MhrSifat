@@ -36,7 +36,6 @@ Focused on designing resilient server-side solutions, embedding AI capabilities,
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React 19](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 **Databases, AI & Cloud**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -62,11 +61,6 @@ Focused on designing resilient server-side solutions, embedding AI capabilities,
 ---
 
 ### 📈 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhrsifat&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhrsifat&layout=compact&theme=radical&hide_border=true" width="48%" />
-</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mhrsifat&label=Profile%20Views&color=0e75b6&style=flat" alt="mhrsifat" />
